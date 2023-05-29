@@ -2,7 +2,7 @@
 
 In this repository you might find:
 
-- [ ] a NixCon logo without city nor year
+- [x] a NixCon logo without city nor year
 - [ ] a NixCon logo with city (Darmstadt) and year (2023)
 - [ ] a poster in DIN A3 format
 - [ ] documentation of the fonts used in the supplied files
